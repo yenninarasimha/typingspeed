@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #dac0ff;
+    padding: 20px;
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.para {
+    color: #3e4c59;
+    font-size: 20px;
+}
+
+.clock-image {
+    height: 60px;
+}
+
+.count-heading {
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.box-card {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border-color: #9aa5b1;
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.quotation {
+    color: #323f4b;
+    font-weight: 600;
+}
+
+.type-text {
+    border-color: #9aa5b1;
+    border-radius: 2px;
+    margin-left: 20px;
+    border-style: solid;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.Reset-button {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 5px;
+    border-style: none;
+}
